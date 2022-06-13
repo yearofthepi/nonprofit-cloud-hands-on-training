@@ -69,7 +69,7 @@ flows:
             13:
                 task: pmm:deploy_post
             14:
-                 task: load_dataset
+                task: load_dataset
 
 plans:
     install:
